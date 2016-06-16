@@ -1,1 +1,1 @@
-# gnome-extension-search-provider
+Gnome extension
